@@ -1,7 +1,6 @@
 ############################################
 # PART 1
 ############################################
-import re
 
 FORMATTING_FILLED_SPACE = "\033[38;5;154m" # 38 means foreground; 5; 154 means yellow
 FORMATTING_RESET = "\033[0m" # reset
